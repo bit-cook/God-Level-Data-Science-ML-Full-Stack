@@ -19,3 +19,10 @@ pipeline
 - governance - dataset source, license, jurisdiction,
 
 https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
+
+
+2. Modeling Strategy
+
+- fine-tuning on model from meta - llama3.2:1b
+- m1 cpu
+- 
